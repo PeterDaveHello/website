@@ -1,5 +1,5 @@
 <a href="http://interactjs.io">
-  <img alt="interact.js" src="http://interactjs.io/img/ijs-anim.svg" height="131px" width="100%">
+  <img alt="interact.js" src="https://c4d6f7d727e094887e93-4ea74b676357550bd514a6a5b344c625.ssl.cf2.rackcdn.com/ijs-anim.svg" height="131px" width="100%">
 </a>
 
 ---
